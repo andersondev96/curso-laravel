@@ -26,9 +26,6 @@ Você tem a possibilidade de construir aplicações com autenticação e cadastr
   <li>Realizar autenticação em seu sistema.</li>
   <li>Criar aplicações complexas com agilidade</li>
   <li>Ter experiência de como trabalhar com arquiteturas complexas orientadas a objeto</li>
-  <li>Construir rapidamente interfaces de acesso a base de dados</li>
-  <li>Entender a divisão da aplicação em modelos, visões e controladores</li>
-  <li>Dominar os principais recursos do Laravel</li>
 </ul>
 
 <h2> Projetos </h2>
