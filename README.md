@@ -30,7 +30,7 @@ Você tem a possibilidade de construir aplicações com autenticação e cadastr
 
 <h2> Projetos </h2>
 <p> <b> Descrição dos projetos até a agora realizados: </b></p>
-<a href="https://github.com/AndersonUfop/curso-laravel/tree/master/cadastro"><h3>Cadastro </h3></a>
+<h3><a href="https://github.com/AndersonUfop/curso-laravel/tree/master/cadastro">Cadastro </a></h3>
 <p>Cadastro de produtos e categorias utilizando as operações de CRUD do banco de dados.</p>
 <h3> Validacao </h3>
 <p>Cadastro de clientes validando os campos do banco de dados.</p>
