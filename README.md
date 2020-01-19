@@ -15,19 +15,21 @@ Você tem a possibilidade de construir aplicações com autenticação e cadastr
 </p>
 
 <h2> Com o Laravel você é capaz de: </h2>
-<ul>Dividir de seu sistema em modelos, visões e controladores.</ul>
-<ul>Criar layouts utilizando a sintaxe Blade do Laravel.</ul>
-<ul>Utilizar migrations, que facilita e agiliza a manutenção de sua base de dados.</ul>
-<ul>Utilizar Eloquent ORM: O poderoso mapeamento de sua base de dados em objetos que o Laravel oferece. Acessar tabelas e relacionamentos de modo simples e sem precisar digitar nenhum código SQL.</ul>
-<ul>Trabalhar com os métodos PUT, GET, POST, PATCH e DELETE e linkar seus formulários com seu código PHP.</ul>
-<ul>Interceptar as requisições e respostas HTTP por meio de middlewares.</ul>
-<ul>Fornecer uma API HTTP e comunique-se com ela através de javascript.</ul>
-<ul>Realizar autenticação em seu sistema.</ul>
-<ul>Criar aplicações complexas com agilidade</ul>
-<ul>Ter experiência de como trabalhar com arquiteturas complexas orientadas a objeto</ul>
-<ul>Construir rapidamente interfaces de acesso a base de dados</ul>
-<ul>Entender a divisão da aplicação em modelos, visões e controladores</ul>
-<ul>Dominar os principais recursos do Laravel</ul>
+<ul>
+  <li>Dividir de seu sistema em modelos, visões e controladores.</li>
+  <li>Criar layouts utilizando a sintaxe Blade do Laravel.</li>
+  <li>Utilizar migrations, que facilita e agiliza a manutenção de sua base de dados.</li>
+  <li>Utilizar Eloquent ORM: O poderoso mapeamento de sua base de dados em objetos que o Laravel oferece. Acessar tabelas e        relacionamentos de modo simples e sem precisar digitar nenhum código SQL.</li>
+  <li>Trabalhar com os métodos PUT, GET, POST, PATCH e DELETE e linkar seus formulários com seu código PHP.</li>
+  <li>Interceptar as requisições e respostas HTTP por meio de middlewares.</li>
+  <li>Fornecer uma API HTTP e comunique-se com ela através de javascript.</li>
+  <li>Realizar autenticação em seu sistema.</li>
+  <li>Criar aplicações complexas com agilidade</li>
+  <li>Ter experiência de como trabalhar com arquiteturas complexas orientadas a objeto</li>
+  <li>Construir rapidamente interfaces de acesso a base de dados</li>
+  <li>Entender a divisão da aplicação em modelos, visões e controladores</li>
+  <li>Dominar os principais recursos do Laravel</li>
+</ul>
 
 <h2> Projetos </h2>
 <p> <b> Descrição dos projetos até a agora realizados: </b></p>
