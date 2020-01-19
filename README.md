@@ -32,11 +32,11 @@ Você tem a possibilidade de construir aplicações com autenticação e cadastr
 <p> <b> Descrição dos projetos até a agora realizados: </b></p>
 <h3><a href="https://github.com/AndersonUfop/curso-laravel/tree/master/cadastro">Cadastro </a></h3>
 <p>Cadastro de produtos e categorias utilizando as operações de CRUD do banco de dados.</p>
-<h3> Validacao </h3>
+<h3><a href="https://github.com/AndersonUfop/curso-laravel/tree/master/validacao">Validacao</a></h3>
 <p>Cadastro de clientes validando os campos do banco de dados.</p>
-<h3> rel-um-pra-um</h3>
+<h3><a href="https://github.com/AndersonUfop/curso-laravel/tree/master/rel-um-pra-um">rel-um-pra-um</a></h3>
 <p>Cadastro de pessoas e endereços utilizando relacionamento um para um.</p>
-<h3> rel-um-pra-muitos</h3>
+<h3><a href="https://github.com/AndersonUfop/curso-laravel/tree/master/rel-um-pra-muitos">rel-um-pra-muitos</a></h3>
 <p>Cadastro de produtos e categorias utilizando o relacionamento muito para muitos.</p>
-<h3> rel-muitos-pra-muitos</h3>
+<h3><a href="https://github.com/AndersonUfop/curso-laravel/tree/master/rel-muitos-pra-muitos">rel-muitos-pra-muitos</a></h3>
 <p> Cadastro de desenvolvedores e projetos utilizando o relacionamento muitos para muitos. </p>
