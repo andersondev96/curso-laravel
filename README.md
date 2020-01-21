@@ -39,4 +39,8 @@ Você tem a possibilidade de construir aplicações com autenticação e cadastr
 <h3><a href="https://github.com/AndersonUfop/curso-laravel/tree/master/rel-um-pra-muitos">rel-um-pra-muitos</a></h3>
 <p>Cadastro de produtos e categorias utilizando o relacionamento muito para muitos.</p>
 <h3><a href="https://github.com/AndersonUfop/curso-laravel/tree/master/rel-muitos-pra-muitos">rel-muitos-pra-muitos</a></h3>
-<p> Cadastro de desenvolvedores e projetos utilizando o relacionamento muitos para muitos. </p>
+<p>Cadastro de desenvolvedores e projetos utilizando o relacionamento muitos para muitos. </p>
+<h3><a href="https://github.com/AndersonUfop/curso-laravel/tree/master/login-basico">login-basico</a></h3>
+<p>Sistema simples para login de usuário. </p>
+<h3><a href="">MultiUsuário</a></h3>
+<p>Sistema para login com diferentes tipos de usuários</p>
