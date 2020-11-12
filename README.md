@@ -64,6 +64,7 @@ Você tem a possibilidade de construir aplicações com autenticação e cadastr
 <h3><a href="https://github.com/AndersonUfop/curso-laravel/tree/master/upload">Upload </a></h3>
 <p>Sistema para fazer upload de imagens.</p>
 
+---
 
 Feito com 💜 por Anderson Fernandes 👋 [See my linkedin](https://www.linkedin.com/in/anderson-fernandes-8b5a50135/)
 
